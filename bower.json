@@ -1,0 +1,29 @@
+{
+  "name": "client-platforms",
+  "description": "Client modes supported by Auth0's platform",
+  "json": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "version": "0.0.1",
+  "homepage": "https://github.com/auth0/client-platforms",
+  "authors": [
+    "Auth0, Inc. <hello@auth0.com>"
+  ],
+  "keywords": [
+    "auth0",
+    "client",
+    "browser",
+    "platforms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "build",
+    "test",
+    "tests"
+  ]
+}
