@@ -1,8 +1,8 @@
 [
   {
-    "title": "Single Page App",
+    "title": "Vanilla JS",
     "name": "spa",
-    "url": "/singlepageapp-tutorial",
+    "url": "/new/client-platforms/vanillajs",
     "image": "//auth0.com/platforms-collection/img/html5.png"
   },
   {
@@ -14,7 +14,7 @@
   {
     "title": "Angular.js",
     "name": "angular",
-    "url": "/angular-tutorial",
+    "url": "/new/client-platforms/angularjs",
     "image": "//auth0.com/platforms-collection/img/angular.png"
   }
 ]

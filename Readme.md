@@ -1,3 +1,4 @@
-# Auth0's client platforms
+client-platforms
+================
 
-[WIP] This is a repository for mapping all supported client platforms by [Auth0](https://auth0.com/)
+Client modes supported by Auth0's platform
