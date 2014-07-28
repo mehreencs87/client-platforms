@@ -1,8 +1,10 @@
 {
   "name": "client-platforms",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Client modes supported by Auth0's platform",
-  "scripts": [ ],
-  "json": [ "index.json" ],
+  "scripts": [],
+  "json": [
+    "index.json"
+  ],
   "main": "index.json"
 }
