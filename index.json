@@ -21,12 +21,12 @@
     "title": "Socket.io",
     "name": "socket-io",
     "url": "/new/client-platforms/socket-io",
-    "image": "http://cdn.socket.io/website/imgs/logo.svg"
+    "image": "//auth0.com/platforms-collection/img/socketio.svg"
   },
   {
     "title": "EmberJS",
     "name": "emberjs",
     "url": "/new/client-platforms/emberjs",
-    "image": "http://www.gravatar.com/avatar/0cf15665a9146ba852bf042b0652780a?s=200"
+    "image": "//auth0.com/platforms-collection/img/emberjs.png"
   }
 ]
