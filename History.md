@@ -1,4 +1,10 @@
 
+0.1.2 / 2014-09-15
+==================
+
+  * Changing images to auth0.com platform collections
+  * Added Ember and Socket.io
+
 0.1.1 / 2014-09-10
 ==================
 
