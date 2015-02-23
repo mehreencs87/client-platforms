@@ -2,31 +2,31 @@
   {
     "title": "Vanilla JS",
     "name": "javascript",
-    "url": "/new/client-platforms/vanillajs",
-    "image": "//auth0.com/platforms-collection/img/html5.png"
+    "url": "/client-platforms/vanillajs",
+    "image": "//auth0.com/lib/platforms-collection/img/html5.png"
   },
   {
     "title": "jQuery",
     "name": "jquery",
-    "url": "/new/client-platforms/jquery",
+    "url": "/client-platforms/jquery",
     "image": "//upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg"
   },
   {
     "title": "Angular.js",
     "name": "angular",
-    "url": "/new/client-platforms/angularjs",
-    "image": "//auth0.com/platforms-collection/img/angular.png"
+    "url": "/client-platforms/angularjs",
+    "image": "//auth0.com/lib/platforms-collection/img/angular.png"
   },
   {
     "title": "Socket.io",
     "name": "socket-io",
-    "url": "/new/client-platforms/socket-io",
-    "image": "//auth0.com/platforms-collection/img/socketio.svg"
+    "url": "/client-platforms/socket-io",
+    "image": "//auth0.com/lib/platforms-collection/img/socketio.svg"
   },
   {
     "title": "EmberJS",
     "name": "emberjs",
-    "url": "/new/client-platforms/emberjs",
-    "image": "//auth0.com/platforms-collection/img/emberjs.png"
+    "url": "/client-platforms/emberjs",
+    "image": "//auth0.com/lib/platforms-collection/img/emberjs.png"
   }
 ]
