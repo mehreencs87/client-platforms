@@ -18,6 +18,12 @@
     "image": "//auth0.com/lib/platforms-collection/img/angular.png"
   },
   {
+    "title": "React",
+    "name": "react",
+    "url": "/client-platforms/react",
+    "image": "//auth0.com/lib/platforms-collection/img/react.png"
+  },
+  {
     "title": "Socket.io",
     "name": "socket-io",
     "url": "/client-platforms/socket-io",
